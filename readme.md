@@ -7,7 +7,7 @@ Para utilizar el proyecto, simplemente abre el archivo HTML en un navegador web 
 El proyecto es una herramienta si quieres practicar en hacer cocktails o visualizar los cocktales. 
 <br>
 Se puede consultar el diseño a través de este enlace: https://www.figma.com/file/kuU7paorlJ9QSriGiOfDlU/Cocktails_API?type=design&node-id=0%3A1&mode=design&t=A2FbLV1AfUambeS9-1<br>
-El enlace de deployment: [https://natalia9519.github.io/prueba-api/](https://newproject-cocktails.netlify.app/) <br>
+El enlace de deployment: https://newproject-cocktails.netlify.app/ <br>
 El diseño de ordenador sería el siguiente:
 <br>
 ![prueba](./imagen/Captura%20de%20pantalla%202023-12-02%20201400.png)
