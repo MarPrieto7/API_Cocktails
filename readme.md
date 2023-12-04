@@ -15,5 +15,5 @@ El diseño de ordenador sería el siguiente:
 <br>
 Para más detalle ir al proyecto.
 
-Herramientas utilizadas HTML, CSS; Javascript.
+Herramientas utilizadas HTML, CSS; Javascript.<br>
 Api externa: https://www.thecocktaildb.com/
