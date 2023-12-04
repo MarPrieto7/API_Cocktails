@@ -26,3 +26,4 @@ El enlace de deployment: https://newproject-cocktails.netlify.app/
 ![prueba](./imagen/Captura%20de%20pantalla%202023-12-02%20202232.png)
 ![prueba](./imagen/Captura%20de%20pantalla%202023-12-02%20202347.png)
 ![prueba](./imagen/Captura%20de%20pantalla%202023-12-02%20202555.png)
+.
